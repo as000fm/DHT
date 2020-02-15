@@ -6,7 +6,7 @@ How to use in a **XOD patch**:
 ````
 #pragma XOD error_raise enable
 
-#pragma XOD require "https://github.com/as000fm/DHT"
+#pragma XOD require "https://github.com/as000fm/DHT-1.3.8"
 
 {{#global}}
 #include <DHT.h>
