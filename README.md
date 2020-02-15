@@ -1,4 +1,4 @@
-# DHT
+# DHT-1.3.8
 This is a copy for [XOD](https://xod.io/) patches of [Adafruit DHT Humidity & Temperature Sensor Library - v1.3.8](https://github.com/adafruit/DHT-sensor-library) **WITHOUT** the Adafruit Unified Sensor Library library in order to reduce the **size** of transpiled *(compiled)* patches for XOD.
 
 How to use in a **XOD patch**:
